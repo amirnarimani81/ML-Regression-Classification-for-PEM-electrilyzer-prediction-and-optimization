@@ -587,14 +587,10 @@ The developed framework enables:
 <hr>
 
 <h2>Conclusion</h2>
-
 <ul>
     <li><b>Regression:</b> Machine learning accurately predicted PEM electrolyzer hydrogen production with <b>R² = 0.9764</b> using the <b>Elastic Net Regression</b> model.</li>
-
     <li><b>Classification:</b> The <b>Decision Tree</b> model classified electrolyzer performance with <b>95% accuracy</b>, enabling reliable identification of high-performance operating conditions.</li>
-
     <li><b>Key Insights:</b> Current, voltage, power, catalyst type, and electrode materials were identified as the most influential factors affecting hydrogen production and overall electrolyzer performance.</li>
-
     <li><b>Impact:</b> The framework reduces trial-and-error experiments, accelerates catalyst screening, and enables faster, data-driven optimization of PEM electrolyzers for green hydrogen production.</li>
 </ul>
 

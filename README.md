@@ -12,7 +12,7 @@
 <h2> Project Overview</h2>
 
 <p>
-This project presents an end-to-end <b>Machine Learning framework for predicting and optimizing Proton Exchange Membrane (PEM) electrolyzer performance</b> by integrating <b>electrochemical engineering knowledge with modern data science methodologies.</b>
+<b>Hydrogen production via Proton Exchange Membrane (PEM) water electrolysis</b> is a cornerstone technology for the clean energy transition. This project applies <b>Machine Learning</b> to predict hydrogen production and optimize electrolyzer performance using material properties, cell design, and operating conditions. The framework combines data preprocessing, feature engineering, <b>regression models</b> (Linear, Ridge, Lasso, Elastic Net, Polynomial, and SGD) and <b>classification models</b> (Logistic Regression, KNN, Decision Tree, and AdaBoost) to identify optimal operating conditions and high-performance electrolyzer configurations while reducing costly trial-and-error experiments.
 </p>
 
 <hr>
